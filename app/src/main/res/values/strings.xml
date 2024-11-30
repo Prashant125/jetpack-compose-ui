@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Basic Compose Ui</string>
+    <string name="small_string_jetpack_compose">It consists of a reactive programming model with conciseness and ease of Kotlin programming language. It is fully declarative so that you can describe your UI by calling some series of functions that will transform your data into a UI hierarchy…</string>
+    <string name="expanded_string_jetpack_compose">It consists of a reactive programming model with conciseness and ease of Kotlin programming language. \nIt is fully declarative so that you can describe your UI by calling some series of functions that will transform your data into a UI hierarchy. When the data changes or is updated then the framework automatically recalls these functions and updates the view for you.\n\nComposable Function is represented in code by using @Composable annotation to the function name. This function will let you define your app’s UI programmatically by describing its shape and data dependencies rather than focusing on the UI construction process.</string>
 </resources>
